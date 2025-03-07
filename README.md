@@ -1,7 +1,22 @@
 # Challenge Amigo Secreto
 
-Este es mi proyecto para el el curso *Principiante en Programación G8 - ONE* de ARULA.
+![Static Badge](https://img.shields.io/badge/status-in_development-blue) ![Static Badge](https://img.shields.io/badge/release-date_march-blue)
 
-En la aplicación puedes escribir los nombres de tus amigos, los cuales aparecererán en un lista, y sortearlos.
+## 📝Descripción
+Este es mi challenge para el el curso **Principiante en Programación G8 - ONE** de Alura Latam. 
 
-Para ejecutar la aplicación sólo necesitas un navegador web y un servidor local para para poder ejecutar el proyecto.
+## 🔨Funcionalidades del proyecto
+- Ingresar nombres de tus amigos.
+- Visualizar los nombres en una lista.
+- Sortear los nombres y visualizar el nombre sorteado.
+
+## 📁Abre y ejecuta el proyecto
+Sólo debes ejecutar el proyecto en tu navegador desde un servidor local.
+
+## 💻Tecnologías utilizadas
+- Javascrip
+- CSS
+- HTML
+
+## 🧍Autor
+Abraham Ulises Ramírez Aguilar
